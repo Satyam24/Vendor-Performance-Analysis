@@ -7,7 +7,7 @@ The full dataset is hosted on Kaggle due to GitHub size limits.
 - **Dataset** - [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-blue?logo=kaggle)](https://www.kaggle.com/datasets/harshmadhavan/vendor-performance-analysis)
 
 ## 📊 Power BI Dashboard
-- **Interactive Dashboard** - [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)](https://app.powerbi.com/[your-dashboard-link](https://app.powerbi.com/view?r=eyJrIjoiNWU1M2ZhN2UtNDA4OC00OTg3LTliMWYtY2YxZGQyMTY3NTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+- **Interactive Dashboard** - [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)](https://app.powerbi.com/(https://app.powerbi.com/view?r=eyJrIjoiNWU1M2ZhN2UtNDA4OC00OTg3LTliMWYtY2YxZGQyMTY3NTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 - **Live Preview** - [View Dashboard Screenshots](#dashboard-screenshots)
 
 **Files included:**
