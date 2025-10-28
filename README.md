@@ -8,7 +8,7 @@ The full dataset is hosted on Kaggle due to GitHub size limits.
 
 ## 📊 Power BI Dashboard
 - **Interactive Dashboard** - [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)](https://app.powerbi.com/(https://app.powerbi.com/view?r=eyJrIjoiNWU1M2ZhN2UtNDA4OC00OTg3LTliMWYtY2YxZGQyMTY3NTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
-- **Live Preview** - [View Dashboard Screenshots](#dashboard-screenshots)
+- **Live Preview** - ![image alt]()
 
 **Files included:**
 - `purchases.csv`
