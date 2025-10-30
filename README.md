@@ -9,7 +9,7 @@ The full dataset is hosted on Kaggle due to GitHub size limits.
 ## 📊 Power BI Dashboard
 - **Interactive Dashboard** - [![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C811?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiNWU1M2ZhN2UtNDA4OC00OTg3LTliMWYtY2YxZGQyMTY3NTRhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-📸 **Preview** - ![image alt](https://github.com/Satyam24/Vendor-Performance-Analysis/blob/d9d2515190c68839995158624114de9e22936f3d/vendor_dashboard.png)
+📸 **Preview** - ![image alt](https://github.com/Satyam24/Vendor-Performance-Analysis/blob/566bf5e2043ffb822a9c1acb45156cd6b9bdd06e/vendor1.png)
 
 **Files included:**
 - `purchases.csv`
